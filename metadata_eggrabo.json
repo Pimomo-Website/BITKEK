@@ -4,26 +4,37 @@
   "description": "Egg rainbow",
   "image": "https://raw.githubusercontent.com/Pimomo-Website/BITKEK/main/eggrainbow.png",
   "seller_fee_basis_points": 5000,
-  "external_url": "https://eggrainbow.com",
-  "attributes": [
+   "creators": [
     {
-      "trait_type": "Color",
-      "value": "Rainbow"
+      "address": "Afi1sw2DcZweofMfXhA6kZNNXFvXagZxc1PN5byaLdAP",
+      "share": 100,
+      "verified": true
     }
   ],
-  "properties": {
-    "creators": [
-      {
-        "address": "Afi1sw2DcZweofMfXhA6kZNNXFvXagZxc1PN5byaLdAP",
-        "share": 100
-      }
-    ],
-    "files": [
-      {
-        "uri": "https://raw.githubusercontent.com/Pimomo-Website/BITKEK/main/eggrainbow.png",
-        "type": "image/png"
-      }
-    ]
-  },
-  "uri": "https://raw.githubusercontent.com/Pimomo-Website/BITKEK/main/eggrainbow.png"
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Meme Coin"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "LKA Team"
+    },
+    {
+      "trait_type": "Website",
+      "value": "https://eggrainbow.io"
+    },
+    {
+      "trait_type": "Supply",
+      "value": "1,000,000,000 EGGRABO"
+    },
+    {
+      "trait_type": "Decimals",
+      "value": 9
+    }
+  ]
 }
