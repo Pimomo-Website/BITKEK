@@ -3,7 +3,7 @@
   "symbol": "EGGRAINBOW",
   "description": "Egg rainbow",
   "image": "https://raw.githubusercontent.com/Pimomo-Website/BITKEK/main/eggrainbow.png",
-  "seller_fee_basis_points": 500,
+  "seller_fee_basis_points": 0,
    "creators": [
     {
       "address": "UCXR4Z21AnbND9jNNj2hLzb833XeK395Mg6zEhQYZ5u",
